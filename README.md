@@ -10,3 +10,6 @@ py2exe-playground
 
 ### Notes
 - `import py2exe` in `setup.py` is required, it rejects `console` parameter to `setuptools`
+
+### GitHub Actions
+- https://github.com/yt-dlp/yt-dlp/tree/master/.github/workflows
